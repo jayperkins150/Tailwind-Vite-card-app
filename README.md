@@ -1,6 +1,6 @@
 # My Tailwind and Vite Card App
 
-This project includes a form build into App.jsx that enables users to create new cards with preset Tailwind styling.
+This app includes a form build into App.jsx that enables users to create new cards with preset Tailwind styling.
 
 It contains a ThemeToggle.jsx component that controls the dark mode / light mode toggle, and a Card.jsx component that defines the template for cards displayed.
 
