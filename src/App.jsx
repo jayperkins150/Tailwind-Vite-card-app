@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Card from './assets/components/Card';
-import { ThemeToggle } from './assets/components/ThemeToggle';
+import { ThemeToggle } from './components/ThemeToggle';
 
 // Initial data for dynamic cards
 const INITIAL_CARDS = [
