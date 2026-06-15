@@ -1,22 +1,56 @@
-# My Tailwind and Vite Card App
+# Tailwind Vite Card App
 
-This app includes a form build into App.jsx that enables users to create new cards with preset Tailwind styling.
+A frontend project built with Vite and Tailwind CSS to explore modern styling techniques and component-based user interface design.
 
-It contains a ThemeToggle.jsx component that controls the dark mode / light mode toggle, and a Card.jsx component that defines the template for cards displayed.
+## Features
 
-## React + Vite
+- Responsive card layouts
+- Utility-first styling with Tailwind CSS
+- Fast development environment using Vite
+- Clean and reusable UI components
+- Mobile-friendly design
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Technologies Used
 
-Currently, two official plugins are available:
+- Vite
+- Tailwind CSS
+- JavaScript
+- HTML
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
 
-## React Compiler
+### Clone the repository
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```bash
+git clone https://github.com/jayperkins150/Tailwind-Vite-card-app.git
+```
 
-## Expanding the ESLint configuration
+### Install dependencies
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+npm install
+```
+
+### Start the development server
+
+```bash
+npm run dev
+```
+
+## What I Learned
+
+- Tailwind CSS utility classes
+- Setting up projects with Vite
+- Building reusable UI patterns
+- Improving development workflows
+
+## Future Improvements
+
+- Add multiple card variations
+- Integrate dynamic data
+- Introduce animations and transitions
+- Expand into a component library
+
+## License
+
+No license.
